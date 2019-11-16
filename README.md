@@ -11,3 +11,13 @@ MASM.EXE   % 汇编语言编译器
 debug.exe  % 用于调试
 
 LINK.EXE   % 用于链接
+
+
+LAB:
+
+LAB4:
+this is a lab tells me how to debug, and it's easy.
+
+LAB5:
+this lab tells what is the segment. I got some practice of coding a asm code.
+
